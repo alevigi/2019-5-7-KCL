@@ -1,18 +1,18 @@
 ---
 layout: workshop
 carpentry: "dc"
-venue: "Stazione Zoologica Anton Dohrn Napoli"
-address: "Villa Comunale Napoli, 80121 - Naples, in the Foyer Seminar Room on the ground Floor of the Stazione Zoologica Anton Dohrn"
+venue: "King's College London, Tower Wing Guy's Hospital"
+address: "Guy's Hospital London - Seminar Room 28th floor Tower wing, Center for Stem Cells and Regenerative Medicine"
 country: "it"
 language: "en"
 latlng: "40.832726,14.235630"
-humandate: "Feb 6-7, 2019"
-humantime: "9:30 am - 5:00 pm"
-startdate: 2019-02-06
-enddate: 2019-02-07
-instructor: ["Alessandra Vigilante"]
+humandate: "May 7-8, 2019"
+humantime: "10 am -  pm"
+startdate: 2019-05-07
+enddate: 2019-05-08
+instructor: ["Alessandra Vigilante", "Rocio Martinez Nunez]
 helper: ["Mara Sangiovanni, Chiara Colantuono", "Marco Miralto"]
-email: ["chiusano@unina.it, mara.sangiovanni@szn.it,alessandra.vigilante@kcl.ac.uk"]
+email: ["rocio.martinez_nunez@kcl.ac.uk,alessandra.vigilante@kcl.ac.uk"]
 collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
 ---
 
