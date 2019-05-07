@@ -3,17 +3,16 @@ layout: workshop
 carpentry: "dc"
 venue: "King's College London, Tower Wing Guy's Hospital"
 address: "Guy's Hospital London - Seminar Room 28th floor Tower wing, Center for Stem Cells and Regenerative Medicine"
-country: "it"
+country: "uk"
 language: "en"
-latlng: "40.832726,14.235630"
+latlng: "51.503257,-0.086695"
 humandate: "May 7-8, 2019"
 humantime: "10 am -  pm"
 startdate: 2019-05-07
 enddate: 2019-05-08
 instructor: ["Alessandra Vigilante", "Rocio Martinez Nunez]
-helper: ["Mara Sangiovanni, Chiara Colantuono", "Marco Miralto"]
 email: ["rocio.martinez_nunez@kcl.ac.uk,alessandra.vigilante@kcl.ac.uk"]
-collaborative_notes: "https://etherpad.net/p/2019-2-6-SZN"
+collaborative_notes: "https://pad.carpentries.org/2019-05-07-KCL"
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
