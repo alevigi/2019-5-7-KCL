@@ -7,7 +7,7 @@ country: "uk"
 language: "en"
 latlng: "51.503257,-0.086695"
 humandate: "May 7-8, 2019"
-humantime: "10 am -  pm"
+humantime: "10 am - 6 pm"
 startdate: 2019-05-07
 enddate: 2019-05-08
 instructor: ["Alessandra Vigilante", "Rocio Martinez Nunez]
